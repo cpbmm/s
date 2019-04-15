@@ -6,6 +6,6 @@ defineClass("LoginViewController", {
         self.initData();
         self.initSubviews();
         self.initLayout();
-        self.view().setBackgroundColor(UIColor.redColor());
+        self.navigationItem().setTitle("测试js");
     }
 }, {});
