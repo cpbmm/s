@@ -6,6 +6,6 @@ defineClass("LoginViewController", {
         self.initData();
         self.initSubviews();
         self.initLayout();
-        self.navigationItem().setTitle("测试js");
+        self.navigationItem().setTitle("😁");
     }
 }, {});
